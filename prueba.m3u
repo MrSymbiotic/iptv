@@ -45,3 +45,31 @@ http://ia802200.us.archive.org/26/items/Peliculas-wii/Recuerdos%20del%20Ayer.mp4
 http://ia802200.us.archive.org/26/items/Peliculas-wii/Se%20levanta%20el%20viento.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Susurros_del_coraz_n-911063934-large.jpg",Susurros del Corazon
 http://ia802200.us.archive.org/26/items/Peliculas-wii/Susurros%20del%20Corazon.mp4
+#EXTINF:-1 tvg-id="ZoyTVSports1.bo" tvg-logo="https://i.imgur.com/0YHztGq.png" group-title="Sports",Zoy TV Sports 1
+https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8
+#EXTINF:-1 tvg-id="ZoyTVSports2.bo" tvg-logo="https://i.imgur.com/0YHztGq.png" group-title="Sports",Zoy TV Sports 2
+https://fl1004.bozztv.com/ssh101/zoytvsports2/index.m3u8
+#EXTINF:-1 tvg-id="ZoyTVSports3.bo" tvg-logo="https://i.imgur.com/0YHztGq.png" group-title="Sports",Zoy TV Sports 3
+https://fl1004.bozztv.com/ssh101/zoytvsports3/index.m3u8
+#EXTINF:-1 tvg-id="ZoyTVSports4.bo" tvg-logo="https://i.imgur.com/0YHztGq.png" group-title="Sports",Zoy TV Sports 4
+https://fl1004.bozztv.com/ssh101/zoytvsports4/index.m3u8
+#EXTINF:-1 tvg-id="ZoyTVSports5.bo" tvg-logo="https://i.imgur.com/0YHztGq.png" group-title="Sports",Zoy TV Sports 5
+https://fl1004.bozztv.com/ssh101/zoytvsports5/index.m3u8
+#EXTINF:-1 tvg-id="ZoyTVTurcas.bo" tvg-logo="https://i.imgur.com/0YHztGq.png" group-title="Entertainment",Zoy TV Turcas
+https://fl1004.bozztv.com/ssh101/zoytvturcas/index.m3u8
+#EXTINF:-1 tvg-id="ZTV.do" tvg-logo="https://i.imgur.com/7F4jQ13.png" group-title="",ZTV
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+#EXTINF:-1 tvg-id="ZugloTV.hu" tvg-logo="https://i.imgur.com/wPqCtwR.png" group-title="Entertainment",Zuglo TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ZuidWestTV.nl" tvg-logo="https://i.imgur.com/dTEFYhb.png" group-title="",ZuidWest TV
+https://live.zuidwesttv.nl/live/zwtv.m3u8
+#EXTINF:-1 tvg-id="ZurquiTV.cr" tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="General",Zurqui TV
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="General",Zvezda
+http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="",Zvezda Plus
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1 tvg-id="ZweiMusicTelevision.de" tvg-logo="https://i.imgur.com/RbdpCNf.png" group-title="Music",Zwei Music Television
+https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
+#EXTINF:-1 tvg-id="ZZTV.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",ZZ TV
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8

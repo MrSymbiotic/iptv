@@ -45,6 +45,8 @@ http://ia802200.us.archive.org/26/items/Peliculas-wii/Recuerdos%20del%20Ayer.mp4
 http://ia802200.us.archive.org/26/items/Peliculas-wii/Se%20levanta%20el%20viento.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Susurros_del_coraz_n-911063934-large.jpg",Susurros del Corazon
 http://ia802200.us.archive.org/26/items/Peliculas-wii/Susurros%20del%20Corazon.mp4
+
+#EXTM3U
 #EXTINF:-1 tvg-id="ZoyTVSports1.bo" tvg-logo="https://i.imgur.com/0YHztGq.png" group-title="Sports",Zoy TV Sports 1
 https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8
 #EXTINF:-1 tvg-id="ZoyTVSports2.bo" tvg-logo="https://i.imgur.com/0YHztGq.png" group-title="Sports",Zoy TV Sports 2
